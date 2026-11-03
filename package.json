@@ -1,0 +1,25 @@
+{
+  "name": "api_alapok",
+  "version": "1.0.0",
+  "description": "próba api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=.env index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patyiszabi/api_alapok.git"
+  },
+  "keywords": [],
+  "author": "Patyi Szabolcs",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Patyiszabi/api_alapok/issues"
+  },
+  "homepage": "https://github.com/Patyiszabi/api_alapok#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}

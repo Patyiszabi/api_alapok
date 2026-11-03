@@ -1,0 +1,11 @@
+
+
+@HOST = http://localhost:3000
+###
+GET {{HOST}}/api/szoveg
+###
+GET {{HOST}}/api/szam
+###
+GET  {{HOST}}/api/obj
+###
+GET {{HOST}}/api/
